@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43" started-at="2021-05-07T18:02:55 EET" finished-at="2021-05-07T18:02:55 EET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43" started-at="2021-05-07T18:02:55 EET" finished-at="2021-05-07T18:02:55 EET">
+      <class name="mavenPractice.APITest">
+        <test-method status="PASS" signature="APIAutomation2()[pri:0, instance:mavenPractice.APITest@3fd7a715]" name="APIAutomation2" duration-ms="0" started-at="2021-05-07T18:02:55 EET" finished-at="2021-05-07T18:02:55 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIAutomation2 -->
+        <test-method status="PASS" signature="APIAutomation()[pri:0, instance:mavenPractice.APITest@3fd7a715]" name="APIAutomation" duration-ms="0" started-at="2021-05-07T18:02:55 EET" finished-at="2021-05-07T18:02:55 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIAutomation -->
+      </class> <!-- mavenPractice.APITest -->
+      <class name="mavenPractice.AppiumTest">
+        <test-method status="PASS" signature="appiumAutomation()[pri:0, instance:mavenPractice.AppiumTest@711f39f9]" name="appiumAutomation" duration-ms="0" started-at="2021-05-07T18:02:55 EET" finished-at="2021-05-07T18:02:55 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumAutomation -->
+        <test-method status="PASS" signature="appiumAutomation2()[pri:0, instance:mavenPractice.AppiumTest@711f39f9]" name="appiumAutomation2" duration-ms="0" started-at="2021-05-07T18:02:55 EET" finished-at="2021-05-07T18:02:55 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumAutomation2 -->
+      </class> <!-- mavenPractice.AppiumTest -->
+      <class name="mavenPractice.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:mavenPractice.SeleniumTest@67205a84]" name="browserAutomation" duration-ms="3" started-at="2021-05-07T18:02:55 EET" finished-at="2021-05-07T18:02:55 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="browserAutomation2()[pri:0, instance:mavenPractice.SeleniumTest@67205a84]" name="browserAutomation2" duration-ms="0" started-at="2021-05-07T18:02:55 EET" finished-at="2021-05-07T18:02:55 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation2 -->
+      </class> <!-- mavenPractice.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
